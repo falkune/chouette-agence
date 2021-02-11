@@ -18,6 +18,15 @@ a:hover {
     cursor: pointer;
 }
 
+.keywords{
+    color:#cccccc;
+    font-size:1px;
+}
+
+#key-words{
+    color:#F3976C;
+}
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
